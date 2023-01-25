@@ -60,6 +60,7 @@ Let's see the popular spot from Casual user
  </p>
 Among the Top 10 popular spot the distribution is too skewed, where Top 2 has 49% of Total Duration compared the rest. This leaves for improvement for the rest of the spot in the Top 10.
 According all of the graphs shown, here are my recommendation:
+ 
 - Coordinating with officials in the respected area to have or maintain a bike-friendly road to popular spot (focus the top 10 first)
 - Prepare a promo or event during weekend and holiday among the popular spot for bike user
 - Prepare more unit for docked bike type, since it has huge potential despite the low count
