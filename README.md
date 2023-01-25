@@ -20,7 +20,9 @@ Electric bike and classic bike each has more Member user than Casual user, excep
  <p align="center">
  <img width="460" height="400" src="https://github.com/salmanzf/Google_Cyclistic/blob/streamlit/Gambar/gambar3.png">
  </p>
-Despite the really low count of use in January 2022, docked bike contribute about 10% total duration of usage. This is a considerable amount, as we can see docked bike has a much higher median duration which means higher duration per person and has tremendous potential. So regarding the low count number, is it because the lack of user or the lack of facility on docked bike?
+Despite the really low count of use in January 2022, docked bike contribute about 10% total duration of usage. This is a considerable amount, as we can see docked bike has a much higher median duration which means higher duration per person and has tremendous potential.
+ 
+Thus regarding the low count number, is it because the lack of user or the lack of facility on docked bike?
 
 # Difference Between Member and Casuar User
  <p align="center">
@@ -30,14 +32,18 @@ Member user has high uses during weekdays, compared to Casual user which has pea
 <p align="center">
  <img widht="550" height="425" src="https://github.com/salmanzf/Google_Cyclistic/blob/streamlit/Gambar/gambar5.png">
  </p>
-Overall Casual user has more duration per user, mostly during weekend. From the distribution throughout the wee can also see that Member user has more uniform distribution than Casual users, implying Member user use it for daily necessities (work, school, etc). My hypothesis is most of the Member users are worker and student, and casual user are reguler citizen for sightseeing and tourists.
+Overall Casual user has more duration per user, mostly during weekend. From the distribution throughout the wee can also see that Member user has more uniform distribution than Casual users, implying Member user use it for daily necessities (work, school, etc).
+ 
+My hypothesis is most of the Member users are worker and student, and casual user are reguler citizen for sightseeing and tourists.
 
 ## Popular Station
 To prove our hypothesis, we can see the behaviour of each category by observing the most popular spot.
 <p align="center">
  <img src="https://github.com/salmanzf/Google_Cyclistic/blob/streamlit/Gambar/gambar6.png">
  </p>
-From the top 10 station of each user category, most of the popular station for Member users are residential and metropolitan area for office, shop, cafe, etc. However, most of the popular station for Casual users are recreation spot like city park, museum, aquarium, etc. And once again, Member user has more uniform distribution than Casual user, implying that each area has similar behaviour which is daily necessities compared to impulsive behaviour like recreation. These graphs support our hypothesis and we can conclude that most of the Member users are worker and student, and Most of the Casual users are regular citizen and tourist for recreation.
+From the top 10 station of each user category, most of the popular station for Member users are residential and metropolitan area for office, shop, cafe, etc. However, most of the popular station for Casual users are recreation spot like city park, museum, aquarium, etc. And once again, Member user has more uniform distribution than Casual user, implying that each area has similar behaviour which is daily necessities compared to impulsive behaviour like recreation.
+ 
+These graphs support our hypothesis and we can conclude that most of the Member users are worker and student, and Most of the Casual users are regular citizen and tourist for recreation.
 
 # What This Mean In The Future?
 Now we know our demographic in each category, we know that some of the Casual user are the potential future Member user (worker & student) who just started using bike sharing service. Then what about regular citizens and tourists who uses it for recreational purposes once in a while?
