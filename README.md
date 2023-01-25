@@ -29,6 +29,7 @@ Thus regarding the low count number, is it because the lack of user or the lack 
  <img width="550" height="425" src="https://github.com/salmanzf/Google_Cyclistic/blob/streamlit/Gambar/gambar4.png">
  </p>
 Member user has high uses during weekdays, compared to Casual user which has peak use during weekend (Saturday).
+ 
 <p align="center">
  <img widht="550" height="425" src="https://github.com/salmanzf/Google_Cyclistic/blob/streamlit/Gambar/gambar5.png">
  </p>
