@@ -6,7 +6,7 @@ The data came from company called Divvy at Chicago provided by Google. In these 
 # User Category in Divvy
 There are 2 type of user using Divvy bike sharing service: Member and Casual. We will see the importance of each these user category based on their activity.
  <p align="center">
- <src="https://github.com/salmanzf/Google_Cyclistic/blob/streamlit/Gambar/gambar1.png">
+ <img src="https://github.com/salmanzf/Google_Cyclistic/blob/streamlit/Gambar/gambar1.png">
  </p>
 It turns out that the number of Member user in January 2022 far exceeds the Casual user in frequency and total duration.
 
