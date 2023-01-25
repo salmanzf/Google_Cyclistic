@@ -24,7 +24,7 @@ Despite the really low count of use in January 2022, docked bike contribute abou
 
 # Difference Between Member and Casuar User
  <p align="center">
- <img src="https://github.com/salmanzf/Google_Cyclistic/blob/streamlit/Gambar/gambar4.png">
+ <img width="550" height="480" src="https://github.com/salmanzf/Google_Cyclistic/blob/streamlit/Gambar/gambar4.png">
  </p>
 Member user has high uses during weekdays, compared to Casual user which has peak use during weekend (Saturday).
 <p align="center">
