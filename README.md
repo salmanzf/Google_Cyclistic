@@ -18,7 +18,7 @@ Electric bike and classic bike each has more Member user than Casual user, excep
 
 ## Is It Worth Keeping Docked Bike?
  <p align="center">
- <img width="460" height="360" src="https://github.com/salmanzf/Google_Cyclistic/blob/streamlit/Gambar/gambar3.png">
+ <img width="460" height="400" src="https://github.com/salmanzf/Google_Cyclistic/blob/streamlit/Gambar/gambar3.png">
  </p>
 Despite the really low count of use in January 2022, docked bike contribute about 10% total duration of usage. This is a considerable amount, as we can see docked bike has a much higher median duration which means higher duration per person and has tremendous potential. So regarding the low count number, is it because the lack of user or the lack of facility on docked bike?
 
