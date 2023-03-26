@@ -1,7 +1,7 @@
 # Google_Cyclistic
 dataset: https://divvy-tripdata.s3.amazonaws.com/index.html
  
-Full dashboard: [Cycling Divvy](https://public.tableau.com/app/profile/salman.zahid.fathurrahman/viz/Cycling_Divvy/Dashboard1)
+Full dashboard: [Cycling Divvy](https://public.tableau.com/app/profile/salman.zahid.fathurrahman/viz/GoogleCycling_Divvy/Dashboard2)
 
 The data came from company called Divvy at Chicago provided by Google. In these dataset we will see how much the bike user activity from this Company on January 2022.
 
